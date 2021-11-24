@@ -1,0 +1,6 @@
+This is a system to calculate sum of numbers
+Enter first integer (enter 0 to quit): 5
+Enter next integer (enter 0 to quit): 6
+Enter next integer (enter 0 to quit): 9
+Enter next integer (enter 0 to quit): 0
+Sum of the integers: 20
