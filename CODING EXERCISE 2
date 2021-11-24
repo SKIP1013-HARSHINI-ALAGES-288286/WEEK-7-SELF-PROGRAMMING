@@ -1,0 +1,17 @@
+package selfProgramming;
+
+public class exercise2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int count = 1;    // count is initiliazed
+
+	      while (count <= 10)    // count is tested
+	      {
+	         System.out.print(count + " ");
+	         count++;            // count is changed
+
+	}
+
+}
+}
