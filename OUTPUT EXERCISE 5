@@ -1,0 +1,17 @@
+Enter an integer between 1 to 100: 56
+Your guess is lower than the number.
+Guess again!
+Enter an integer between 1 to 100: 60
+Your guess is lower than the number.
+Guess again!
+Enter an integer between 1 to 100: 70
+Your guess is lower than the number.
+Guess again!
+Enter an integer between 1 to 100: 80
+Your guess is higher than the number.
+Guess again!
+Enter an integer between 1 to 100: 71
+Your guess is lower than the number.
+Guess again!
+Enter an integer between 1 to 100: 75
+You guessed the correct number.
