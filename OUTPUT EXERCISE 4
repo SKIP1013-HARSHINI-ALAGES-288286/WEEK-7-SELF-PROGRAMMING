@@ -1,0 +1,8 @@
+This is a system to calculate sum of numbers
+Enter integer: 5
+Enter Y for yes or N for no: y
+Enter integer: 6
+Enter Y for yes or N for no: y
+Enter integer: 9
+Enter Y for yes or N for no: n
+Sum of the integers: 20
